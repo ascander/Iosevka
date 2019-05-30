@@ -586,6 +586,7 @@ unicode = 57609                   # 0xE109
 featureTag = 'XHS0'
 sequence = '=>='
 
+# TODO fix this
 [[iosevka.compLig]]
 unicode = 57610                   # 0xE10A
 featureTag = 'XHS0'
@@ -610,6 +611,7 @@ sequence = '--------------------->'
 # Leftwards arrow-like
 # ----------------------------------------
 
+# TODO fix this
 [[iosevka.compLig]]
 unicode = 57614                   # 0xE10E
 featureTag = 'XHS0'
@@ -655,11 +657,13 @@ unicode = 57622                   # 0xE116
 featureTag = 'XHS0'
 sequence = '=<='
 
+# TODO fix this
 [[iosevka.compLig]]
 unicode = 57623                   # 0xE117
 featureTag = 'XHS0'
 sequence = '-<'
 
+# TODO fix this
 [[iosevka.compLig]]
 unicode = 57624                   # 0xE118
 featureTag = 'XHS0'
@@ -675,6 +679,7 @@ unicode = 57626                   # 0xE11A
 featureTag = 'XHS0'
 sequence = '=<<'
 
+# TODO fix this
 [[iosevka.compLig]]
 unicode = 57627                   # 0xE11B
 featureTag = 'XHS0'
@@ -724,6 +729,7 @@ unicode = 57635                   # 0xE123
 featureTag = 'XHS0'
 sequence = '<====>'
 
+# TODO fix this
 [[iosevka.compLig]]
 unicode = 57636                   # 0xE124
 featureTag = 'XHS0'
@@ -733,11 +739,13 @@ sequence = '<------------------->'
 # Colons
 # ----------------------------------------
 
+# TODO fix this
 [[iosevka.compLig]]
 unicode = 57637                   # 0xE125
 featureTag = 'XHS0'
 sequence = '::'
 
+# TODO fix this
 [[iosevka.compLig]]
 unicode = 57638                   # 0xE126
 featureTag = 'XHS0'
@@ -747,11 +755,13 @@ sequence = ':::'
 # Logical
 # ----------------------------------------
 
+# TODO fix this
 [[iosevka.compLig]]
 unicode = 57639                   # 0xE127
 featureTag = 'XHS0'
 sequence = '/\\'
 
+# TODO fix this
 [[iosevka.compLig]]
 unicode = 57640                   # 0xE128
 featureTag = 'XHS0'
@@ -780,6 +790,7 @@ unicode = 57643                   # 0xE12B
 featureTag = 'XHS0'
 sequence = '=='
 
+# TODO fix this
 [[iosevka.compLig]]
 unicode = 57644                   # 0xE12C
 featureTag = 'XHS0'
@@ -790,6 +801,7 @@ unicode = 57645                   # 0xE12D
 featureTag = 'XHS0'
 sequence = '==='
 
+# TODO fix this
 [[iosevka.compLig]]
 unicode = 57646                   # 0xE12E
 featureTag = 'XHS0'
@@ -800,12 +812,14 @@ sequence = '!=='
 # ----------------------------------------
 
 # HTML comment
+# TODO fix this
 [[iosevka.compLig]]
 unicode = 57647                   # 0xE12F
 featureTag = 'XHS0'
 sequence = '<!--'
 
 # HTML comment (three hyphens)
+# TODO fix this
 [[iosevka.compLig]]
 unicode = 57648                   # 0xE130
 featureTag = 'XHS0'
