@@ -526,11 +526,9 @@ powerlineShiftX = 450
 [powerline-shift-x-p500]
 powerlineShiftX = 500
 
-# Compatibility PUA ligature sample
-# [[iosevka.compLig]]
-# unicode = 57600 # 0xE100
-# featureTag = 'XV00'
-# sequence = '<*>'
+# ----------------------------------------
+# Compatibility PUA ligatures 
+# ----------------------------------------
 
 # ----------------------------------------
 # Rightwards arrow-like
@@ -538,73 +536,73 @@ powerlineShiftX = 500
 
 [[iosevka.compLig]]
 unicode = 57600                   # 0xE100
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '->'
 
 [[iosevka.compLig]]
 unicode = 57601                   # 0xE101
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '=>'
 
 [[iosevka.compLig]]
 unicode = 57602                   # 0xE102
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '->>'
 
 [[iosevka.compLig]]
 unicode = 57603                   # 0xE103
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '=>>'
 
 [[iosevka.compLig]]
 unicode = 57604                   # 0xE104
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '-->'
 
 [[iosevka.compLig]]
 unicode = 57605                   # 0xE105
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '==>'
 
 [[iosevka.compLig]]
 unicode = 57606                   # 0xE106
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '--->'
 
 [[iosevka.compLig]]
 unicode = 57607                   # 0xE107
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '===>'
 
 [[iosevka.compLig]]
 unicode = 57608                   # 0xE108
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '->-'
 
 [[iosevka.compLig]]
 unicode = 57609                   # 0xE109
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '=>='
 
 # TODO fix this
 [[iosevka.compLig]]
 unicode = 57610                   # 0xE10A
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '>-'
 
 [[iosevka.compLig]]
 unicode = 57611                   # 0xE10B
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '>>-'
 
 [[iosevka.compLig]]
 unicode = 57612                   # 0xE10C
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '>>='
 
 [[iosevka.compLig]]
 unicode = 57613                   # 0xE10D
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '--------------------->'
 
 # ----------------------------------------
@@ -614,75 +612,75 @@ sequence = '--------------------->'
 # TODO fix this
 [[iosevka.compLig]]
 unicode = 57614                   # 0xE10E
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '<-'
 
 [[iosevka.compLig]]
 unicode = 57615                   # 0xE10F
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '<<-'
 
 [[iosevka.compLig]]
 unicode = 57616                   # 0xE110
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '<<='
 
 [[iosevka.compLig]]
 unicode = 57617                   # 0xE111
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '<--'
 
 [[iosevka.compLig]]
 unicode = 57618                   # 0xE112
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '<=='
 
 [[iosevka.compLig]]
 unicode = 57619                   # 0xE113
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '<---'
 
 [[iosevka.compLig]]
 unicode = 57620                   # 0xE114
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '<==='
 
 [[iosevka.compLig]]
 unicode = 57621                   # 0xE115
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '-<-'
 
 [[iosevka.compLig]]
 unicode = 57622                   # 0xE116
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '=<='
 
 # TODO fix this
 [[iosevka.compLig]]
 unicode = 57623                   # 0xE117
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '-<'
 
 # TODO fix this
 [[iosevka.compLig]]
 unicode = 57624                   # 0xE118
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '=<'
 
 [[iosevka.compLig]]
 unicode = 57625                   # 0xE119
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '-<<'
 
 [[iosevka.compLig]]
 unicode = 57626                   # 0xE11A
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '=<<'
 
 # TODO fix this
 [[iosevka.compLig]]
 unicode = 57627                   # 0xE11B
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '<---------------------'
 
 # ----------------------------------------
@@ -691,81 +689,77 @@ sequence = '<---------------------'
 
 [[iosevka.compLig]]
 unicode = 57628                   # 0xE11C
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '<->'
 
 [[iosevka.compLig]]
 unicode = 57629                   # 0xE11D
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '<=>'
 
 [[iosevka.compLig]]
 unicode = 57630                   # 0xE11E
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '<-->'
 
 [[iosevka.compLig]]
 unicode = 57631                   # 0xE11F
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '<==>'
 
 [[iosevka.compLig]]
 unicode = 57632                   # 0xE120
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '<--->'
 
 [[iosevka.compLig]]
 unicode = 57633                   # 0xE121
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '<===>'
 
 [[iosevka.compLig]]
 unicode = 57634                   # 0xE122
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '<---->'
 
 [[iosevka.compLig]]
 unicode = 57635                   # 0xE123
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '<====>'
 
 # TODO fix this
 [[iosevka.compLig]]
 unicode = 57636                   # 0xE124
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '<------------------->'
 
 # ----------------------------------------
 # Colons
 # ----------------------------------------
 
-# TODO fix this
 [[iosevka.compLig]]
 unicode = 57637                   # 0xE125
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '::'
 
-# TODO fix this
 [[iosevka.compLig]]
 unicode = 57638                   # 0xE126
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = ':::'
 
 # ----------------------------------------
 # Logical
 # ----------------------------------------
 
-# TODO fix this
 [[iosevka.compLig]]
 unicode = 57639                   # 0xE127
-featureTag = 'XHS0'
-sequence = '/\\'
+featureTag = 'calt'
+sequence = '/\'
 
-# TODO fix this
 [[iosevka.compLig]]
 unicode = 57640                   # 0xE128
-featureTag = 'XHS0'
-sequence = '\\/'
+featureTag = 'calt'
+sequence = '\/'
 
 # ----------------------------------------
 # Comparison
@@ -773,12 +767,12 @@ sequence = '\\/'
 
 [[iosevka.compLig]]
 unicode = 57641                   # 0xE129
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '>='
 
 [[iosevka.compLig]]
 unicode = 57642                   # 0xE12A
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '<='
 
 # ----------------------------------------
@@ -787,24 +781,22 @@ sequence = '<='
 
 [[iosevka.compLig]]
 unicode = 57643                   # 0xE12B
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '=='
 
-# TODO fix this
 [[iosevka.compLig]]
 unicode = 57644                   # 0xE12C
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '!='
 
 [[iosevka.compLig]]
 unicode = 57645                   # 0xE12D
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '==='
 
-# TODO fix this
 [[iosevka.compLig]]
 unicode = 57646                   # 0xE12E
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '!=='
 
 # ----------------------------------------
@@ -812,15 +804,13 @@ sequence = '!=='
 # ----------------------------------------
 
 # HTML comment
-# TODO fix this
 [[iosevka.compLig]]
 unicode = 57647                   # 0xE12F
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '<!--'
 
 # HTML comment (three hyphens)
-# TODO fix this
 [[iosevka.compLig]]
 unicode = 57648                   # 0xE130
-featureTag = 'XHS0'
+featureTag = 'calt'
 sequence = '<!---'
